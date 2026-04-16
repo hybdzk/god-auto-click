@@ -1,0 +1,7 @@
+{
+  "versionCode": 1000005,
+  "versionName": "1.0.0.5",
+  "apkUrl": "https://github.com/xxx/xxx/releases/download/v1.0/app-release.apk",
+  "force": false,
+  "desc": "1. 修复bug\n2. 优化性能"
+}
